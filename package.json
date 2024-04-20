@@ -19,6 +19,7 @@
     "@types/react-redux": "^7.1.33",
     "@vitejs/plugin-react-swc": "^3.6.0",
     "axios": "^1.6.8",
+    "clsx": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.3",
